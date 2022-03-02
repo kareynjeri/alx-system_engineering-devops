@@ -7,4 +7,6 @@ file 7 -> 7-movethatfile created a script that moves file betty to tmp then from
 
 file 8 --> 8-firstdelete created a file that deletes betty from tmp
 
-file 9 --> 9-firstdirdeletion this script shows how i deleted /my_first_directory  
+file 9 --> 9-firstdirdeletion this script shows how i deleted /my_first_directory
+
+file 10 --> 10-back this script contains how to change back to previous working directory  

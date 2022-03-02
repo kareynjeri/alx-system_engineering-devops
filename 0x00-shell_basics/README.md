@@ -16,3 +16,5 @@ file 11 --> 11-lists this script contains commands that show how to  lists all f
 file 12 --> 12-file_type create a script that contains this description this file
 
 file 13 --> created the script that Creates a symbolic link to /bin/ls, named __ls__  
+
+file 14 --> created this script for task 14

@@ -27,4 +27,4 @@ file 17 --> 102-tree Create a script that creates the directories welcome/, welc
 
 file 18 --> 103-commasWrite a command that lists all the files and directories of the current directory, separated by commas (,)
 
-file 19 -->school.mgc Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+file 19 -->school.mgc Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset  0.<final file>.

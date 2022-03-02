@@ -18,3 +18,7 @@ file 12 --> 12-file_type create a script that contains this description this fil
 file 13 --> created the script that Creates a symbolic link to /bin/ls, named __ls__  
 
 file 14 --> created this script for task 14
+
+file 15 --> creates a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+

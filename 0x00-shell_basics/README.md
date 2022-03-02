@@ -24,3 +24,5 @@ file 15 --> creates a script that moves all files beginning with an uppercase le
 file 16 -->  creates a script that deletes all files in the current working directory that end with the character 
 
 file 17 --> 102-tree Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+file 18 --> 103-commasWrite a command that lists all the files and directories of the current directory, separated by commas (,).

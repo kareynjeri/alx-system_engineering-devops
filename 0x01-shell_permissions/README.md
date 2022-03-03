@@ -6,3 +6,6 @@ fil 1-who_am_i > Write a script that prints the effective username of the curren
 file 3-new_owner Write a script that changes the owner of the file hello to the user betty
 
 file 4-empty --> Write a script that creates an empty file called hello.
+
+
+file 5-excute  --> Write a script that adds execute permission to the owner of the file hello.

@@ -16,4 +16,4 @@ file 7-everybody Write a script that adds execution permission to the owner, the
 
 file 8-james_bond Write a script that sets the permission to the file hello as follows:
 
-
+file 9-John_Doe Write a script that sets the mode of the file hello

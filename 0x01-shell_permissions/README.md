@@ -26,4 +26,4 @@ file 12 Create a script that creates a directory called my_dir with permissions 
 
 file 13 Write a script that changes the group owner to school for the file hello
 
-
+file 2 - 2-groups Write a script that prints all the groups the current user is part of.
